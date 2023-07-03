@@ -1,1 +1,6 @@
-<?php echo "hello"; ?>
+<?php
+
+echo "hello";
+echo phpinfo();
+
+?>
